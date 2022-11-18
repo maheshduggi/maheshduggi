@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheshduggi
-- 👀 I’m interested in Java, C, C++
+- 👀 I’m interested in Java, C, java,
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source project
 
