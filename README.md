@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshduggi
-- 👀 I’m interested in c,java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in c,java,python,SQL,JavaScript
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on open source project
 
 <!---
